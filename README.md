@@ -11,9 +11,7 @@ An intelligent, agentic data pipeline that ingests raw, sensitive enterprise dat
 
 ### 🎥 Project Demo Video
 
-<video src="https://github.com/sameerhussai230/safedata-zero-trust-agentic-pipeline/releases/download/v1.0.0-demo/safedata-zero-trust-agentic-pipeline-video.mp4" autoplay loop muted playsinline width="100%">
-  Your browser does not support the video tag.
-</video>
+[![Watch Demo](https://img.shields.io/badge/▶️_Watch_Full_Demo-MP4-blue?style=for-the-badge)](https://github.com/sameerhussai230/safedata-zero-trust-agentic-pipeline/releases/download/v1.0.0-demo/safedata-zero-trust-agentic-pipeline-video.mp4)
 
 ---
 
