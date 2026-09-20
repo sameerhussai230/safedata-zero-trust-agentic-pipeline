@@ -125,21 +125,6 @@ streamlit run app.py
 
 ---
 
-## 🚀 Deployment Instructions (Streamlit Community Cloud)
-
-This app is optimized for seamless deployment on Streamlit Community Cloud with auto-recovery for ephemeral storage resets.
-
-1. Push this code to a public or private GitHub Repository.
-2. Go to [Streamlit Community Cloud](https://share.streamlit.io/) and click **New app**.
-3. Select your repository, branch, and set the **Main file path** to `app.py`.
-4. Click **Advanced settings**, and in the **Secrets** box, add your default API key:
-   ```toml
-   GROQ_API_KEY = "gsk_your_api_key_here"
-   ```
-5. Click **Deploy**. The app will automatically spin up, generate the simulated datasets in the background, and be ready to use!
-
----
-
 ## 💡 Example Queries to Try
 
 Once the Gold layer is generated, the UI will automatically generate schema-aware suggested questions for you. You can click them or type queries like:
