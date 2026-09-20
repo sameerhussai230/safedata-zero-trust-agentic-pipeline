@@ -7,8 +7,8 @@
 
 An intelligent, agentic data pipeline that ingests raw, sensitive enterprise data, safely detects and masks PII using intelligent rule-based safeguards, and empowers business users to perform natural language "Text-to-SQL" analytics via a Zero-Trust Agent architecture.
 
-*(Add a screenshot of your app here by placing the image in your assets folder)*
-<!-- ![App Screenshot](assets/demo_screenshot.png) -->
+### 🎯 **[Try the Live Demo App on Streamlit Cloud!](https://safedata-zero-trust-agentic-pipeline-dorajpqeg5vqcrz4l2sboj.streamlit.app/)**
+
 
 ---
 
