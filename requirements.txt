@@ -1,0 +1,10 @@
+streamlit
+faker
+pandas
+sqlalchemy
+groq
+langchain
+langchain-groq
+langchain-community
+python-dotenv
+openpyxl

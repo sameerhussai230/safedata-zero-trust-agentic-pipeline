@@ -1,0 +1,16 @@
+# Environments
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Local Data and Databases (Streamlit will auto-generate these on the cloud)
+*.db
+data/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# OS generated files
+.DS_Store
