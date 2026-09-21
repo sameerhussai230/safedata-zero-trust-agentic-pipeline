@@ -10,7 +10,15 @@ An intelligent, agentic data pipeline that ingests raw, sensitive enterprise dat
 ### 🎯 **[Try the Live Demo App on Streamlit Cloud!](https://safedata-zero-trust-agentic-pipeline-dorajpqeg5vqcrz4l2sboj.streamlit.app/)**
 
 
----
+## 🎥 Watch Project Demo Video
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=cdPImhmsELw" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/cdPImhmsELw/maxresdefault.jpg" alt="SafeData Demo Video" width="100%" style="border-radius: 8px;">
+  </a>
+  <br/>
+  <p><b>▶️ Click the image above to watch the full 1080p HD demo video on YouTube</b></p>
+</div>
 
 ## 🌟 Key Features
 
